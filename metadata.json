@@ -1,0 +1,6 @@
+{
+  "name": "The Long Story Short",
+  "description": "An AI-powered blog that provides concise summaries of long-form articles, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
